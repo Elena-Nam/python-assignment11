@@ -1,0 +1,10 @@
+1.
+
+Static Visualizations: Easier to create and quicker to render but lack user interaction.
+Interactive Visualizations: Allow users to explore data, zoom, filter, and interact, providing a deeper and more engaging analysis experience.
+
+2. 
+They consolidate multiple views of data into a single interface that updates dynamically.This allows decision-makers to monitor key metrics, detect anomalies, and respond to changes instantly
+
+3.
+These tools make it easier for teams to work together, simplify complex data, and help people clearly see patterns and trends. This leads to better understanding and smarter, data-based decisions.
